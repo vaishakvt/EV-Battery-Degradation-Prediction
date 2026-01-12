@@ -66,4 +66,5 @@ An interactive web app where users can input EV parameters and instantly get pre
 
 Run locally:
 ```bash
-streamlit run APPP.py
+streamlit run app.py
+
